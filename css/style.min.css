@@ -2064,6 +2064,12 @@ header {
   width: 100%;
 }
 
+@media (max-width: 800px) {
+  .burger-act {
+    max-height: 800px;
+    height: 100%;
+  }
+}
 .b-logo {
   display: -webkit-box;
   display: -ms-flexbox;
